@@ -1,0 +1,208 @@
+MetPetDB term	similarity	cinergi term
+ANION CHROMATOGRAPHY	0.6842105263157895	Chromatography
+CHN	1.0
+CHN GAS CHROMATOGRAPHY	0.65	Chromatography
+CHS ELEMENTAL ANALYZER	0.6923076923076923	CHNS/O ELEMENTAL ANALYZERS
+CARBON SULFUR ANALYZER	0.6363636363636364	CARBON ANALYZERS
+FOURIER TRANSFORM INFRARED SPECTROMETRY	0.9428571428571428	Fourier Transform Infrared Spectrometer
+GAS CHROMATOGRAPHY	0.7647058823529411	Chromatography
+HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY	0.9722222222222222	High-Performance Liquid Chromatograph
+ICP-MS	1.0
+ION MICROPROBE	0.6666666666666666	Microprobe
+INFRA-RED SPECTROSCOPY	0.6785714285714286	INFRARED LASER SPECTROSCOPY
+MASS SPECTROMETRY	1.0
+UNKNOWN	1.0
+PROTON MICROPROBE	0.6153846153846154	Microprobe
+SECONDARY ION MASS SPECTROMETRY	0.896551724137931	Secondary Ion Mass Spectrometers
+SPECTROPHOTOMETRIC	0.6666666666666666	spectrophotometric reagent
+SPARC SOURCE MASS SPECTROMETRY	0.6	Mass Spectrometry
+TIMS	1.0
+VOLUMETRIC	1.0
+Aluminium	1.0
+Aluminum	1.0
+Americium	1.0
+Antimony	1.0
+Argon	1.0
+Arsenic	1.0
+Astatine	1.0
+Barium	1.0
+Berkelium	1.0
+Beryllium	1.0
+Bismuth	1.0
+Boron	1.0
+Bromine	1.0
+Cadmium	1.0
+Calcium	1.0
+Californium	1.0
+Carbon	1.0
+Cerium	1.0
+Cesium	1.0
+Chlorine	1.0
+Chromium	1.0
+Cobalt	1.0
+Copper	1.0
+Curium	1.0
+Dysprosium	1.0
+Einsteinium	1.0
+Erbium	1.0
+Europium	1.0
+Fermium	1.0
+Fluorine	1.0
+Francium	1.0
+Gadolinium	1.0
+Gallium	1.0
+Germanium	1.0
+Gold	1.0
+Hafnium	1.0
+Helium	1.0
+Holmium	1.0
+Hydrogen	1.0
+Indium	1.0
+Iodine	1.0
+Iridium	1.0
+Iron	1.0
+Krypton	1.0
+Lanthanum	1.0
+Lawrencium	1.0
+Lead	1.0
+Lithium	1.0
+Lutetium	1.0
+Magnesium	1.0
+Manganese	1.0
+Mendelevium	1.0
+Mercury	1.0
+Molybdenum	1.0
+Neodymium	1.0
+Neon	1.0
+Neptunium	1.0
+Nickel	1.0
+Niobium	1.0
+Nitrogen	1.0
+Nobelium	1.0
+Osmium	1.0
+Oxygen	1.0
+Palladium	1.0
+Phosphorus	1.0
+Platinum	1.0
+Plutonium	1.0
+Polonium	1.0
+Potassium	1.0
+Praseodymium	1.0
+Promethium	1.0
+Protactinium	1.0
+Radium	1.0
+Radon	1.0
+Rhenium	1.0
+Rhodium	1.0
+Rubidium	1.0
+Ruthenium	1.0
+Samarium	1.0
+Scandium	1.0
+Selenium	1.0
+Silicon	1.0
+Silver	1.0
+Sodium	1.0
+Strontium	1.0
+Sulfur	1.0
+Sulphur	1.0
+Tantalum	1.0
+Technetium	1.0
+Tellurium	1.0
+Terbium	1.0
+Thallium	1.0
+Thorium	1.0
+Thulium	1.0
+Tin	1.0
+Titanium	1.0
+Tungsten	1.0
+Uranium	1.0
+Vanadium	1.0
+Xenon	1.0
+Ytterbium	1.0
+Yttrium	1.0
+Zinc	1.0
+Drawing	0.6	Map drawing
+Map	1.0
+Thin Section Scan	0.7857142857142857	Thin section
+Granulite facies	0.75	Granulite Facies Rock
+Quartz	1.0
+Feldspar	1.0
+Plagioclase	1.0
+Alkali feldspar	0.6190476190476191	Alkali Feldspar Rhyolite
+Sanidine	1.0
+Zeolite	1.0
+Talc	1.0
+Chlorite	1.0
+Serpentine	1.0
+Clay	1.0
+Pyroxene	1.0
+Wollastonite	1.0
+Amphibole	1.0
+Anthophyllite	1.0
+Grunerite	1.0
+Tremolite	1.0
+Actinolite	1.0
+Riebeckite	1.0
+Zircon	1.0
+Topaz	1.0
+Oxides	1.0
+Hematite	1.0
+Rutile	1.0
+Magnetite	1.0
+Corundum	1.0
+Hydroxides	1.0
+Gibbsite	1.0
+Diaspore	1.0
+Boehmite	1.0
+Sulphides	1.0
+Chalcocite	1.0
+Sulphates	1.0
+Gypsum	1.0
+Carbonates	1.0
+Calcite	1.0
+Dolomite	1.0
+Magnesite	1.0
+Phosphates	1.0
+Apatite	1.0
+Xenotime	1.0
+Native Elements	1.0
+Carbon	1.0
+Graphite	1.0
+Diamond	1.0
+Other	1.0
+Hematite	1.0
+Rutile	1.0
+Magnetite	1.0
+Hematite	1.0
+Rutile	1.0
+Magnetite	1.0
+Al2O3	1.0
+BeO	1.0
+CaO	1.0
+CeO2	1.0
+CO2	1.0
+CuO	1.0
+Fe2O3	1.0
+FeO	1.0
+H2O	1.0
+MgO	1.0
+PbO	1.0
+TiO2	1.0
+V2O5	1.0
+ZnO	1.0
+Slate	1.0
+Phyllite	1.0
+Schist	1.0
+Gneiss	1.0
+Migmatite	1.0
+Marble	1.0
+Amphibolite	1.0
+Eclogite	1.0
+Granofels	1.0
+Hornfels	1.0
+Skarn	1.0
+Quartzite	1.0
+Serpentinite	1.0
+Pyroxenite	1.0
+Metapelite	1.0
+Thin Section	1.0

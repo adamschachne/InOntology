@@ -1,0 +1,22 @@
+Zeolite facies
+Prehnite-pumpellyite facies
+Greenschist facies
+Amphibolite facies
+Epidote amphibolite facies
+Granulite facies
+Blueschist facies
+Eclogite facies
+Hornfels facies
+Chlorite zone
+Biotite zone
+Garnet zone
+Staurolite zone
+Staurolite-kyanite zone
+Kyanite zone
+Sillimanite zone
+Andalusite zone
+Sillimanite-K feldspar zone
+Garnet-cordierite zone
+Migmatite zone
+Ultra high pressure facies
+Ultra high temperature facies

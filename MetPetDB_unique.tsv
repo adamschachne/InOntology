@@ -1,0 +1,290 @@
+MetPetDB term	similarity	closest cinergi term
+ATOMIC ABSORPTION	0.5714285714285714	Atomic Absorption Spectrometer
+ALPHA COUNTING	0.4444444444444444	k-mer counting
+ALPHA COUNTING ISOTOPE DILUTION	0.28846153846153844	Thermoluminescence Photon Counting System
+AR40_AR39 AGE DETERMINATION	0.42424242424242425	Structure determination
+CALCULATED	0.375	Vienna RNA Calculated Energy
+COLORIMETRIC	0.5555555555555556	Colorimetric Reagent
+COULOMETRICAL ANALYSIS	0.3333333333333333	Data analysis
+DIRECT CURRENT PLASMA	0.40540540540540543	Plasma Electron and Current Experiment
+DIRECT READING OPTICAL EMISSIONS SPECTROSCOPY	0.36065573770491804	INDUCTIVELY COUPLED PLASMA EMISSION SPECTROSCOPY
+ELECTRON MICROPROBE	0.5416666666666666	Electron Microscopy Model
+ENAA
+EMISSION SPECTROMETRY	0.5454545454545454	Mass Spectrometry
+FISSION TRACK	0.42105263157894735	Annotation track
+FLAME EMISSION SPECTROSCOPY	0.4583333333333333	INDUCTIVELY COUPLED PLASMA EMISSION SPECTROSCOPY
+FLAME PHOTOMETRY	0.2727272727272727	flame retardant
+GRADIENT ION-CHROMATOGRAPHY	0.23529411764705882	Temperature Gradient
+GRAVIMETRY
+HIGH-RESOLUTION ICP-MS	0.4444444444444444	High-Resolution Infrared Radiometer
+ICP
+OPTICAL EMISSION SPECTROSPCOPY	0.28125	Emission matrix
+ICP ATOMIC EMISSION SPECTRO	0.4230769230769231	Inductively Coupled Plasma Atomic Emission Spectrometer
+ICP-MS ISOTOPE DILUTION	0.2962962962962963	Carbon Isotope
+IGNITION	0.5	Loss On Ignition
+INSTRUMENTAL NEUTRON ACTIVATION ANALYSIS	0.3170731707317073	NEUTRON MONITOR STATIONS
+ION SENSITIVE ELECTRODE	0.3023255813953488	Sensitive High Resolution Ion Microprobe
+K-AR AGE DETERMINATION	0.4827586206896552	Structure determination
+LA-ICPMS
+LAICP
+Laser Ablation Microprobe ICPMS	0.35555555555555557	Sensitive High Resolution Ion Microprobe
+MANOMETRY
+MULTI-COLLECTOR ICP-MS	0.23809523809523808	ICP-MS
+ISOTOPE DILUTION MASS SPECTROMETRY	0.4838709677419355	Mass Spectrometry
+NEUTRON ACTIVATION ANALYSIS	0.36	Data analysis
+OPTICAL EMISSION SPECTROMETRY	0.4	Mass Spectrometry
+OPTICAL SPECTROSCOPY	0.42857142857142855	FLUORESCENCE SPECTROSCOPY
+PENFIELD METHOD	0.35294117647058826	Sim method
+POTENTIOMETRICAL
+RA226_TH230 AGE DETERMINATION	0.3888888888888889	Structure determination
+RADIOANALYTICAL NEUTRON ACTIVATION	0.40625	Neutron diffraction
+DUPONT SOLID'S MOISTURE ANALYZER	0.34782608695652173	International Soil Moisture Network
+SPECTROGRAPHIC ANALYSIS	0.3076923076923077	Data analysis
+SPARK SOURCE MASS SPECTROMETRY - ISOTOPE DILUTION	0.37777777777777777	Mass spectrometry data
+TIMS ISOTOPE DILUTION	0.3333333333333333	Carbon Isotope
+TITRATION	0.35	Protein Titration Curve
+UV EMISSION SPECTROGRAPHY	0.3103448275862069	Emission matrix
+U235_PA231 AGE DETERMINATION	0.4117647058823529	Structure determination
+U238_TH230 AGE DETERMINATION	0.4117647058823529	Structure determination
+WET CHEMISTRY	0.5294117647058824	basic chemistry
+X-RAY FLUORESCENCE	0.5517241379310345	X-Ray Fluorescence Spectrometer
+ENERGY-DISPERSIVE X-RAY FLUORESCENCE	0.5	Energy-Dispersive Analysis of X-Ray
+Zirco
+Field Notes	0.3	note
+Cross Section	0.17391304347826086	Nature Section, Department of Conservation, Missouri
+Figure
+Field Photo	0.25	Force Field
+Photograph	0.5	Aerial Photographs
+Photomicrograph-Transmitted Plane Polarized	0.21052631578947367	Scroll Plane
+Photomicrograph-Transmitted Crossed Polars	0.15789473684210525	cross track
+Photomicrograph-Reflected Plane Polarized	0.20512820512820512	Scroll Plane
+Photomicrograph-Reflected Crossed Polars	0.14666666666666667	American Red Cross, International Federation of Red Cross and Red Crescent Societies
+Secondary Electron Image	0.5517241379310345	Secondary Structure Image
+Back-Scattered Electron Image	0.25	electron donor
+Cathodoluminescence Image	0.2222222222222222	2D PAGE image
+X-ray Map	0.18181818181818182	Plasmid map drawing
+Zeolite facies	0.46153846153846156	zeolite
+Prehnite-pumpellyite facies	0.2571428571428571	Granulite Facies Rock
+Greenschist facies	0.23333333333333334	Granulite Facies Rock
+Amphibolite facies	0.5882352941176471	Amphibolite
+Epidote amphibolite facies	0.43478260869565216	Amphibolite
+Blueschist facies	0.20689655172413793	Granulite Facies Rock
+Eclogite facies	0.5	eclogite
+Hornfels facies	0.5	Hornfels
+Chlorite zone	0.5384615384615384	chlorites
+Biotite zone	0.35294117647058826	Critical Zone
+Garnet zone	0.26666666666666666	vadoze zone
+Staurolite zone	0.2631578947368421	vadoze zone
+Staurolite-kyanite zone	0.21212121212121213	Critical Zone Dataset
+Kyanite zone	0.3125	vadoze zone
+Sillimanite zone	0.25	vadoze zone
+Andalusite zone	0.3076923076923077	Critical Zone Dataset
+Sillimanite-K feldspar zone	0.42424242424242425	alkali feldspar granite
+Garnet-cordierite zone	0.2571428571428571	Critical Zone Observatory
+Migmatite zone	0.3684210526315789	high tide zone
+Ultra high pressure facies	0.4482758620689655	High Pressure Habitat
+Ultra high temperature facies	0.53125	high temperature habitat
+Tectosilicates
+Silica	0.45454545454545453	fused silica
+Coesite
+Tridymite
+Cristobalite
+Albite
+Oligoclase
+Andesine
+Labradorite
+Anorthite	0.2962962962962963	anorthite less than 50 percent
+Orthoclase
+Celsian
+Nepheline
+Kalsilite
+Leucite
+Sodalite
+Scapolite
+Analcite
+Sheet silicates	0.5714285714285714	silicates
+Mica	0.3	Mica Schist
+White Mica	0.3333333333333333	White Smoker
+Muscovite
+Paragonite
+Phengite
+Sericite
+Margarite
+Glauconite
+Biotite	0.2	dioritic rock
+Phlogopite
+Annite
+Wonesite
+Lepidolite
+Clintonite
+Stilpnomelane
+Astrophyllite
+Pyrophyllite
+Kaolinite
+Illite
+Smectite
+Vermiculite
+Montmorillonite
+Apophyllite
+Prehnite
+Chain silicates	0.5714285714285714	silicates
+Orthopyroxene
+Enstatite
+Ferrosilite
+Clinopyroxene
+Calcic pyroxene	0.5	Pyroxene
+Diopside
+Hedenbergite
+Augite	0.0625	dioritic rock
+Sodic pyroxene	0.5384615384615384	Pyroxene
+Jadeite
+Acmite
+Omphacite
+Aegirine
+Spodumene
+Clinoenstatite
+Pectolite
+Rhodonite
+Bustamite
+Pyroxmangite
+Sapphirine
+Aenigmatite
+Orthoamphibole
+Gedrite
+Clinoamphibole
+Fe-Mg clinoamphibole
+Cummingtonite
+Calcic amphibole	0.5333333333333333	amphibole
+Hornblende	0.06040268456375839	Phaneritic Crystalline Rock With M Less Than 90, Consisting Of Intermediate Plagioclase, Commonly With Hornblende And Often With Biotite Or Augite. A Dioritoid With A Plagioclase To Total Feldspar Ratio (in The QAPF Fraction) Greater Than 0.9.  Includes Rocks Defined Modally In QAPF Fields 10, 10' And 10*.
+Kaersutite
+Sodic Amphibole	0.5714285714285714	amphibole
+Glaucophane	0.29411764705882354	glaucophane lawsonite epidote mineralogy
+Richterite
+Katophorite
+Ekermannite
+Arfvedsonite
+Ortho- and Ring Silicates	0.3333333333333333	silicates
+Olivine	0.35294117647058826	Alkali Olivine Basalt
+Humite
+Titanite
+Garnet	0.3125	Garnet Xenocrysts
+Vesuvanite
+Sillimanite
+Andalusite
+Kyanite
+Mullite
+Staurolite
+Chloritoid
+Larnite
+Merwinite
+Spurrite
+Epidote Group	0.1794871794871795	glaucophane lawsonite epidote mineralogy
+Zoisite
+Clinozoisite
+Epidote	0.17647058823529413	glaucophane lawsonite epidote mineralogy
+Piemontite
+Allanite
+Lawsonite	0.23529411764705882	glaucophane lawsonite epidote mineralogy
+Pumpellyite
+Melilite
+Rankinite
+Tilleyite
+Beryl
+Cordierite
+Tourmaline
+Axinite
+Ilmenite
+Spinel Group	0.35294117647058826	alkoxyl group
+Spinel	0.3125	Spinel Peridotite
+Chromite
+Hercynite
+Ghanite
+Periclase
+Cassiterite
+Anatase
+Brookite
+Perovskite
+Brucite
+Goethite
+Lepidocrocite
+Limonite
+Pyrite	0.45454545454545453	arsenopyrite
+Pyrrhotite
+Chalcopyrite
+Sphalerite
+Galena
+Baryte
+Celestine
+Anhydrite	0.4444444444444444	gypsum or anhydrite
+Rhodochrosite
+Siderite
+Ankerite
+Monazite
+Opaque
+Ilmenite
+Pyrite	0.45454545454545453	arsenopyrite
+Pyrrhotite
+Chalcopyrite
+Sphalerite
+Galena
+Fe-Ti oxide	0.375	ferrous oxide
+Ilmenite
+BaO
+Ce2O3
+CoO
+Cr2O3
+HfO2
+K2O
+La2O3
+Li2O
+Mn2O3
+MnO
+MnO2
+Na2O
+Nb2O5
+NiO
+P2O5
+Rb2O
+Sb2O3
+SO3
+Sb2O5
+Sc2O3
+SiO2
+SnO
+SrO
+Ta2O5
+ThO2
+UO2
+Y2O3
+ZrO2
+Adirondacks
+Shuswap complex	0.28	Poly(I).poly(C) complex
+Snowbird tectonic zone	0.3076923076923077	Tectonic Uplift
+Cyclades blueschist belt	0.13157894736842105	Paired Metamorphic Belt
+Llano uplift	0.3157894736842105	Tectonic Uplift
+Abakuma terrane	0.42857142857142855	Terrane
+Dalradian
+Buchan terrane	0.5	Terrane
+Arunta block	0.19047619047619047	block copolymer
+Broken Hill district	0.16666666666666666	hill range
+Noshobu terrane	0.42857142857142855	Terrane
+Bright Angel Canyon	0.29411764705882354	canyon
+Calc-silicate
+Greenschist
+Blueschist
+Jadeitite
+Glaucophanite
+Garnetite
+Cordierite-Anthophyllite
+Cataclasite	0.5882352941176471	Cataclasite Series
+Mylonite
+Metaarkose
+Metagreywacke
+Metabasite
+Metacarbonate
+Metagranite
+Metaigneous
+Metavolcanic
+Polished Thin Section	0.55	Thin section
+Rock Chip	0.23529411764705882	Trachytic Rock
+Mineral Separate	0.42857142857142855	Mineral

@@ -1,0 +1,16 @@
+Field Notes
+Drawing
+Map
+Cross Section
+Figure
+Field Photo
+Photograph
+Thin Section Scan
+Photomicrograph-Transmitted Plane Polarized
+Photomicrograph-Transmitted Crossed Polars
+Photomicrograph-Reflected Plane Polarized
+Photomicrograph-Reflected Crossed Polars
+Secondary Electron Image
+Back-Scattered Electron Image
+Cathodoluminescence Image
+X-ray Map
